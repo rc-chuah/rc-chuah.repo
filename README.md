@@ -1,2 +1,2 @@
 # rc-chuah.repo
-The Termux repository of RC Chuah.
+The Debian Based Distro repository of RC Chuah.
